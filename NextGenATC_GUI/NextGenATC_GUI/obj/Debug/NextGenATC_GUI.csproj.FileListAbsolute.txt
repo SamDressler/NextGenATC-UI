@@ -1,0 +1,14 @@
+C:\Users\Sam\source\repos\NextGenATC_GUI\NextGenATC_GUI\bin\Debug\NextGenATC_GUI.exe.config
+C:\Users\Sam\source\repos\NextGenATC_GUI\NextGenATC_GUI\bin\Debug\NextGenATC_GUI.exe
+C:\Users\Sam\source\repos\NextGenATC_GUI\NextGenATC_GUI\bin\Debug\NextGenATC_GUI.pdb
+C:\Users\Sam\source\repos\NextGenATC_GUI\NextGenATC_GUI\obj\Debug\NextGenATC_GUI.csprojAssemblyReference.cache
+C:\Users\Sam\source\repos\NextGenATC_GUI\NextGenATC_GUI\obj\Debug\NextGenATC_GUI.ApplicationWindow.resources
+C:\Users\Sam\source\repos\NextGenATC_GUI\NextGenATC_GUI\obj\Debug\NextGenATC_GUI.Properties.Resources.resources
+C:\Users\Sam\source\repos\NextGenATC_GUI\NextGenATC_GUI\obj\Debug\NextGenATC_GUI.csproj.GenerateResource.cache
+C:\Users\Sam\source\repos\NextGenATC_GUI\NextGenATC_GUI\obj\Debug\NextGenATC_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Sam\source\repos\NextGenATC_GUI\NextGenATC_GUI\obj\Debug\NextGenATC_GUI.exe
+C:\Users\Sam\source\repos\NextGenATC_GUI\NextGenATC_GUI\obj\Debug\NextGenATC_GUI.pdb
+C:\Users\Sam\source\repos\NextGenATC_GUI\NextGenATC_GUI\obj\Debug\NextGenATC_GUI.FlightLogTab.resources
+C:\Users\Sam\source\repos\NextGenATC_GUI\NextGenATC_GUI\obj\Debug\NextGenATC_GUI.WeatherTab.resources
+C:\Users\Sam\source\repos\NextGenATC_GUI\NextGenATC_GUI\obj\Debug\NextGenATC_GUI.QueueTabForm.resources
+C:\Users\Sam\source\repos\NextGenATC_GUI\NextGenATC_GUI\obj\Debug\NextGenATC_GUI.TestCaseForm.resources
